@@ -1,0 +1,230 @@
+number,country,first,last,participants,sports,gold,silver,bronze,total,first_winter,last_winter,participants_winter,sports_winter,gold_winter,silver_winter,bronze_winter,old_total_winter,athlete,still_in_use,2018_g,2018_s,2018_b,2018_t,g_w,s_w,b_w,new_total_winter,2018_participants,total_participants_w,now_compete_as,true_false_2018,new_last_winter
+1, Afghanistan,1936,2016,103,7,0,0,2,2,0,0,0,0,0,0,0,0,Rohullah Nikpai (2 medals),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+2, Albania,1972,2016,43,7,0,0,0,0,2006,2014,2,1,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,2,4,,TRUE,2018
+3, Algeria,1964,2016,366,20,5,4,8,17,1992,2010,7,2,0,0,0,0,Taoufik Makhloufi (3 medals),Yes,,,,0,0,0,0,0,,7,,FALSE,2010
+4, American Samoa,1988,2016,27,8,0,0,0,0,1994,1994,2,1,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,2,,FALSE,1994
+5, Andorra,1976,2016,33,8,0,0,0,0,1976,2014,28,4,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,5,33,,TRUE,2018
+6, Angola,1980,2016,163,11,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+7, Antigua and Barbuda,1976,2016,70,6,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+8, Argentina,1900,2016,"1,708",34,21,25,28,74,1928,2014,136,8,0,0,0,0,Carlos Espinola and Lucha Aymar (4 medals),Yes,,,,0,0,0,0,0,7,143,,TRUE,2018
+9, Armenia,1996,2016,118,13,2,5,9,16,1994,2014,28,5,0,0,0,0,Artur Aleksanyan (2 medals),Yes,,,,0,0,0,0,0,3,31,,TRUE,2018
+10, Aruba,1988,2016,32,10,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+11, Australasia,1908,1912,53,8,3,4,5,12,0,0,0,0,0,0,0,0,Harold Hardwick (3 medals),No,,,,0,0,0,0,0,,0,Australia and New Zealand,FALSE,0
+12, Australia,1896,2016,"3,579",37,146,167,191,504,1924,2014,240,14,5,3,4,12,Leisel Jones and Ian Thorpe (9 medals),Yes,0,2,1,3,5,5,5,15,50,290,,TRUE,2018
+13, Austria,1896,2016,"1,484",32,25,40,42,107,1924,2014,859,14,59,78,81,218,Felix Gottwald (7 medals),Yes,5,3,6,14,64,81,87,232,105,964,,TRUE,2018
+14, Azerbaijan,1996,2016,180,18,7,12,25,44,1998,2014,13,2,0,0,0,0,Mariya Stadnik and Xetaq Qazyumov (3 medals),Yes,,,,0,0,0,0,0,1,14,,TRUE,2018
+15, Bahamas,1952,2016,162,9,6,2,6,14,0,0,0,0,0,0,0,0,Chris Brown (4 medals),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+16, Bahrain,1984,2016,90,8,1,1,1,3,0,0,0,0,0,0,0,0,3 athletes with 1 medal,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+17, Bangladesh,1984,2016,38,6,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+18, Barbados,1968,2016,115,13,0,0,1,1,0,0,0,0,0,0,0,0,Obadele Thompson (1 medal),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+19, Belarus,1996,2016,603,25,13,28,43,84,1994,2014,160,10,6,4,5,15,5 athletes with 4 medals,Yes,2,1,0,3,8,5,5,18,33,193,,TRUE,2018
+20, Belgium,1900,2016,"1,967",36,44,58,62,164,1924,2014,124,8,1,1,3,5,Hubert Van Innis (10 medals),Yes,0,1,0,1,1,2,3,6,22,146,,TRUE,2018
+21, Belize,1968,2016,52,7,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+22, Benin,1972,2016,54,8,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+23, Bermuda,1936,2016,118,10,0,0,1,1,1992,2014,3,3,0,0,0,0,Clarence Hill (1 medal),Yes,,,,0,0,0,0,0,1,4,,TRUE,2018
+24, Bhutan,1984,2016,21,2,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+25, Bohemia,1900,1912,66,9,0,1,5,6,0,0,0,0,0,0,0,0,3 athletes with 2 medals,No,,,,0,0,0,0,0,,0,Czechoslovakia and later the Czech Republic,FALSE,0
+26, Bolivia,1936,2016,76,15,0,0,0,0,1956,1992,13,1,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,2,15,,TRUE,2018
+27, Bosnia and Herzegovina,1992,2016,45,10,0,0,0,0,1994,2014,28,5,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,4,32,,TRUE,2018
+28, Botswana,1980,2016,62,5,0,1,0,1,0,0,0,0,0,0,0,0,Nijel Amos (1 medal),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+29, Brazil,1900,2016,"2,024",35,30,36,61,127,1992,2014,32,8,0,0,0,0,Torben Grael and Robert Scheidt (5 medals),Yes,,,,0,0,0,0,0,9,41,,TRUE,2018
+30, British Virgin Islands,1984,2016,26,3,0,0,0,0,1984,2014,2,2,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,2,,FALSE,2014
+31, Brunei,1996,2016,9,4,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+32, Bulgaria,1924,2016,"1,323",28,51,86,80,217,1936,2014,180,11,1,2,3,6,Mariya Grozdeva (5 medals),Yes,,,,0,1,2,3,6,21,201,,TRUE,2018
+33, Burkina Faso,1972,2016,32,5,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+34, Burundi,1996,2016,25,3,1,1,0,2,0,0,0,0,0,0,0,0,Vénuste Niyongabo and Francine Niyonsaba (1 medal),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+35, Cambodia,1964,2016,43,8,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+36, Cameroon,1964,2016,226,11,3,1,1,5,2002,2002,1,1,0,0,0,0,Francoise Mbango (2 medals),Yes,,,,0,0,0,0,0,,1,,FALSE,2002
+37, Canada,1900,2016,"3,543",39,64,104,136,304,1924,2014,"1,279",15,62,56,52,170,Clara Hughes and Cindy Klassen (6 medals),Yes,11,8,10,29,73,64,62,199,225,1504,,TRUE,2018
+38, Cape Verde,1996,2016,13,5,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+39, Cayman Islands,1976,2016,38,4,0,0,0,0,2010,2014,1,1,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,1,,FALSE,2014
+40, Central African Republic,1968,2016,50,9,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+41, Chad,1964,2016,27,3,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+42, Chile,1912,2016,475,26,2,7,4,13,1948,2014,50,4,0,0,0,0,Fernando Gonzalez (3 medals),Yes,,,,0,0,0,0,0,7,57,,TRUE,2018
+43, China,1932,2016,"2,354",36,227,162,154,543,1980,2014,311,11,12,22,19,53,Wu Minxia (7 medals),Yes,1,6,2,9,13,28,21,62,80,391,,TRUE,2018
+44, Chinese Taipei,1956,2016,522,25,3,7,14,24,1972,2014,44,8,0,0,0,0,4 athletes with 2 medals,Yes,,,,0,0,0,0,0,4,48,,TRUE,2018
+45, Colombia,1900,2016,616,25,5,8,14,27,2010,2010,1,1,0,0,0,0,6 athletes with 2 medals,Yes,,,,0,0,0,0,0,4,5,,TRUE,2018
+46, Comoros,1996,2016,15,3,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+47, Congo (Brazzaville),1964,2016,74,7,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+48, Congo (Kinshasa),1968,2016,69,8,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+49, Cook Islands,1988,2016,30,6,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+50, Costa Rica,1936,2016,149,16,1,1,2,4,1980,2006,7,3,0,0,0,0,Claudia Poll (3 medals),Yes,,,,0,0,0,0,0,,7,,FALSE,2006
+51, Cote d'Ivoire,1964,2016,124,12,1,1,1,3,0,0,0,0,0,0,0,0,3 athletes with 1 medal,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+52, Croatia,1992,2016,381,22,11,10,12,33,1992,2014,51,7,4,6,1,11,Janica Kostelic (6 medals),Yes,,,,0,4,6,1,11,19,70,,TRUE,2018
+53, Cuba,1900,2016,"1,283",30,76,67,70,213,0,0,0,0,0,0,0,0,Ramon Fonst (5 medals),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+54, Cyprus,1980,2016,106,12,0,1,0,1,1980,2014,14,1,0,0,0,0,Pavlos Kontides (1 medal),Yes,,,,0,0,0,0,0,1,15,,TRUE,2018
+55, Czech Republic,1996,2016,470,28,15,17,22,54,1994,2014,267,14,7,9,8,24,Katerina Neumannova (6 medals),Yes,2,2,3,7,9,11,11,31,93,360,,TRUE,2018
+56, Czechoslovakia,1920,1992,"1,619",30,49,50,47,146,1924,1992,480,11,2,8,15,25,Vera Cáslavská (11 medals),No,,,,0,2,8,15,25,,480,Czech Republic and Slovakia,FALSE,1992
+57, Denmark,1896,2016,"1,861",30,48,80,80,208,1948,2014,58,8,0,1,0,1,3 athletes with 5 medals,Yes,,,,0,0,1,0,1,17,75,,TRUE,2018
+58, Djibouti,1984,2016,28,5,0,0,1,1,0,0,0,0,0,0,0,0,Ahmed Salah (1 medal),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+59, Dominica,1996,2016,16,2,0,0,0,0,2014,2014,1,1,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,1,,FALSE,2014
+60, Dominican Republic,1964,2016,208,19,3,2,2,7,0,0,0,0,0,0,0,0,Félix Sánchez (2 medals),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+61, East Germany,1968,1988,"1,129",21,153,129,127,409,1968,1988,232,10,39,36,35,110,3 athletes with 8 medals,No,,,,0,39,36,35,110,,232,Germany,FALSE,1988
+62, Ecuador,1924,2016,158,18,1,1,0,2,2018,0,0,0,0,0,0,0,Jefferson Pérez (2 medals),Yes,,,,0,0,0,0,0,1,1,,TRUE,2018
+63, Egypt,1906,2016,999,30,7,8,12,27,1984,1984,1,1,0,0,0,0,3 athletes with 2 medals,Yes,,,,0,0,0,0,0,,1,,FALSE,1984
+64, El Salvador,1932,2016,126,14,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+65, Equatorial Guinea,1984,2016,26,3,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+66, Eritrea,2000,2016,26,2,0,0,1,1,2018,0,0,0,0,0,0,0,Zersenay Tadesse (1 medal),Yes,,,,0,0,0,0,0,1,1,,TRUE,2018
+67, Estonia,1920,2016,260,22,9,9,16,34,1928,2014,94,8,4,2,1,7,Kristina Šmigun-Vähi and Andrus Veerpalu (3 medals),Yes,,,,0,4,2,1,7,22,116,,TRUE,2018
+68, Ethiopia,1956,2016,231,4,22,9,22,53,2006,2010,1,1,0,0,0,0,Tirunesh Dibaba (6 medals),Yes,,,,0,0,0,0,0,,1,,FALSE,2010
+69, Federated States of Micronesia,2000,2016,18,5,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+70, Fiji,1956,2016,126,12,1,0,0,1,1988,2002,2,2,0,0,0,0,13 athletes with 1 medal,Yes,,,,0,0,0,0,0,,2,,FALSE,2002
+71, Finland,1906,2016,"1,626",29,106,86,120,312,1924,2014,723,12,42,62,57,161,Paavo Nurmi (12 medals),Yes,1,1,4,6,43,63,61,167,100,823,,TRUE,2018
+72, France,1896,2016,"5,353",43,232,251,285,768,1924,2014,823,16,31,31,47,109,Philippe Cattiau and Roger Ducret (8 medals),Yes,5,4,6,15,36,35,53,124,106,929,,TRUE,2018
+73, Gabon,1972,2016,48,6,0,1,0,1,0,0,0,0,0,0,0,0,Anthony Obame (1 medal),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+74, Gambia,1984,2016,33,5,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+75, Georgia,1996,2016,152,19,8,6,18,32,1994,2014,15,4,0,0,0,0,5 athletes with 2 medals,Yes,,,,0,0,0,0,0,4,19,,TRUE,2018
+76, Germany,1896,2016,"3,976",39,230,258,282,770,1928,2014,891,15,86,84,58,228,Isabell Werth and Franziska van Almsick (10 medals),Yes,14,10,7,31,100,94,65,259,156,1047,,TRUE,2018
+77, Ghana,1952,2016,244,7,0,1,3,4,2010,2010,1,1,0,0,0,0,23 athletes with 1 medal,Yes,,,,0,0,0,0,0,1,2,,TRUE,2018
+78, Great Britain,1896,2016,"5,646",44,272,313,293,878,1924,2014,642,16,10,4,12,26,Henry Taylor and Bradley Wiggins (8 medals),Yes,1,0,4,5,11,4,16,31,58,700,,TRUE,2018
+79, Greece,1896,2016,"1,643",36,42,57,54,153,1936,2014,66,8,0,0,0,0,3 athletes with 4 medals,Yes,,,,0,0,0,0,0,4,70,,TRUE,2018
+80, Grenada,1984,2016,44,4,1,1,0,2,0,0,0,0,0,0,0,0,Kirani James (2 medals),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+81, Guam,1988,2016,65,10,0,0,0,0,1988,1988,1,1,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,1,,FALSE,1988
+82, Guatemala,1932,2016,234,19,0,1,0,1,1988,1988,6,2,0,0,0,0,Erick Barrondo (1 medal),Yes,,,,0,0,0,0,0,,6,,FALSE,1988
+83, Guinea,1968,2016,60,7,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+84, Guinea Bissau,1996,2016,15,3,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+85, Guyana,1948,2016,75,6,0,0,1,1,0,0,0,0,0,0,0,0,Michael Anthony (1 medal),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+86, Haiti,1900,2016,76,12,0,1,1,2,0,0,0,0,0,0,0,0,7 athletes with 1 medal,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+87, Honduras,1968,2016,131,12,0,0,0,0,1992,1992,1,1,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,1,,FALSE,1992
+88, Hong Kong,1952,2016,317,20,1,1,1,3,2002,2014,4,1,0,0,0,0,4 athletes with 1 medal,Yes,,,,0,0,0,0,0,1,5,,TRUE,2018
+89, Hungary,1896,2016,"2,566",32,178,154,173,505,1924,2014,206,10,0,2,4,6,Aladár Gerevich and Ágnes Keleti (10 medals),Yes,1,0,0,1,1,2,4,7,19,225,,TRUE,2018
+90, Iceland,1908,2016,223,12,0,2,2,4,1948,2014,75,3,0,0,0,0,17 athletes with 1 medal,Yes,,,,0,0,0,0,0,5,80,,TRUE,2018
+91, India,1900,2016,871,23,9,7,12,28,1924,2014,21,4,0,0,0,0,Leslie Claudius and Udham Singh (4 medals),Yes,,,,0,0,0,0,0,2,23,,TRUE,2018
+92, Individual Olympic Athletes,1992,2016,75,16,1,1,3,5,2014,2014,1,1,0,0,0,0,5 athletes with 1 medal,Yes,,,,0,0,0,0,0,,1,,FALSE,2014
+93, Indonesia,1952,2016,275,20,7,12,11,30,0,0,0,0,0,0,0,0,Eko Irawan (3 medals),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+94, Iran,1900,2016,502,22,18,21,29,68,1956,2014,24,2,0,0,0,0,3 athletes with 3 medals,Yes,,,,0,0,0,0,0,4,28,,TRUE,2018
+95, Iraq,1948,2016,194,14,0,0,1,1,0,0,0,0,0,0,0,0,Abdul Wahid Aziz (1 medal),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+96, Ireland,1924,2016,772,26,9,11,13,33,1992,2014,27,5,0,0,0,0,Michelle Smith (4 medals),Yes,,,,0,0,0,0,0,5,32,,TRUE,2018
+97, Israel,1952,2016,340,23,1,1,7,9,1994,2014,13,3,0,0,0,0,Gal Fridman (2 medals),Yes,,,,0,0,0,0,0,10,23,,TRUE,2018
+98, Italy,1896,2016,"3,996",36,219,189,197,605,1924,2014,938,16,37,34,43,114,Edoardo Mangiarotti (13 medals),Yes,3,2,5,10,40,36,48,124,120,1058,,TRUE,2018
+99, Jamaica,1948,2016,359,14,23,33,22,78,1988,2014,11,2,0,0,0,0,Merlene Ottey-Page and Usain Bolt (9 medals),Yes,,,,0,0,0,0,0,3,14,,TRUE,2018
+100, Japan,1912,2016,"3,273",37,142,134,165,441,1928,2014,798,15,10,17,18,45,Takashi Ono (13 medals),Yes,4,5,4,13,14,22,22,58,124,922,,TRUE,2018
+101, Jordan,1980,2016,61,12,1,0,0,1,0,0,0,0,0,0,0,0,Ahmad Abughaush (1 medal),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+102, Kazakhstan,1996,2016,502,25,19,22,29,70,1994,2014,192,11,1,3,3,7,Vladimir Smirnov (4 medals),Yes,0,0,1,1,1,3,4,8,46,238,,TRUE,2018
+103, Kenya,1956,2016,514,15,31,38,31,100,1998,2006,1,1,0,0,0,0,Kip Keino and Vivian Cheruiyot (4 medals),Yes,,,,0,0,0,0,0,1,2,,TRUE,2018
+104, Kiribati,2004,2016,9,2,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+105, Kosovo,2016,2016,8,5,1,0,0,1,2018,0,0,0,0,0,0,0,Majlinda Kelmendi (1 medal),Yes,,,,0,0,0,0,0,35,35,,TRUE,2018
+106, Kuwait,1968,2012,192,13,0,0,2,2,0,0,0,0,0,0,0,0,Fehaid Al-Deehani (2 medals),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+107, Kyrgyzstan,1996,2016,122,13,0,1,2,3,1994,2014,7,4,0,0,0,0,3 athletes with 1 medal,Yes,,,,0,0,0,0,0,1,8,,TRUE,2018
+108, Laos,1980,2016,47,7,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,2,2,,TRUE,2018
+109, Latvia,1924,2016,253,20,3,11,5,19,1924,2014,194,12,0,4,3,7,Andris Šics and Juris Šics (3 medals),Yes,0,0,1,1,0,4,4,8,34,228,,TRUE,2018
+110, Lebanon,1948,2016,146,14,0,2,2,4,1948,2014,31,3,0,0,0,0,4 athletes with 1 medal,Yes,,,,0,0,0,0,0,3,34,,TRUE,2018
+111, Lesotho,1972,2016,51,5,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+112, Liberia,1956,2016,42,2,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+113, Libya,1968,2016,68,10,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+114, Liechtenstein,1936,2016,52,8,0,0,0,0,1936,2014,80,4,2,2,5,9,Hanni Wenzel (4 medals),Yes,0,0,1,1,2,2,6,10,3,83,,TRUE,2018
+115, Lithuania,1924,2016,294,19,6,6,13,25,1928,2014,26,6,0,0,0,0,Gintaras Einikis and Virgilijus Alekna (3 medals),Yes,,,,0,0,0,0,0,9,35,,TRUE,2018
+116, Luxembourg,1900,2016,367,19,4,2,0,6,1928,2014,12,4,0,2,0,2,Marc Girardelli and Jean Jacoby (2 medals),Yes,,,,0,0,2,0,2,1,13,,TRUE,2018
+117, Macedonia,1996,2016,37,6,0,0,1,1,1998,2014,10,2,0,0,0,0,Mogamed Ibragimov (1 medal),Yes,,,,0,0,0,0,0,3,13,,TRUE,2018
+118, Madagascar,1964,2016,75,8,0,0,0,0,2006,2006,1,1,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,1,2,,TRUE,2018
+119, Malawi,1972,2016,59,5,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+120, Malaya,1956,1960,40,5,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,No,,,,0,0,0,0,0,,0,Malaysia,FALSE,0
+121, Malaysia,1964,2016,301,20,0,7,4,11,2018,0,0,0,0,0,0,0,Lee Chong Wei (3 medals),Yes,,,,0,0,0,0,0,2,2,,TRUE,2018
+122, Maldives,1988,2016,31,3,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+123, Mali,1964,2016,75,7,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+124, Malta,1928,2016,81,10,0,0,0,0,2014,2014,1,1,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,1,2,,TRUE,2018
+125, Marshall Islands,2008,2016,12,4,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+126, Mauritania,1984,2016,22,2,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+127, Mauritius,1984,2016,88,13,0,0,1,1,0,0,0,0,0,0,0,0,Bruno Julie (1 medal),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+128, Mexico,1900,2016,"1,519",32,13,24,29,66,1928,2014,32,5,0,0,0,0,Joaquín Capilla (4 medals),Yes,,,,0,0,0,0,0,4,36,,TRUE,2018
+129, Moldova,1996,2016,116,12,0,2,5,7,1994,2014,15,4,0,0,0,0,8 athletes with 1 medal,Yes,,,,0,0,0,0,0,2,17,,TRUE,2018
+130, Monaco,1920,2016,68,14,0,0,1,1,1984,2014,16,2,0,0,0,0,Julien Médecin (1 medal),Yes,,,,0,0,0,0,0,4,20,,TRUE,2018
+131, Mongolia,1964,2016,253,11,2,10,14,26,1964,2014,39,4,0,0,0,0,Naidangiin Tüvshinbayar (2 medals),Yes,,,,0,0,0,0,0,2,41,,TRUE,2018
+132, Montenegro,2008,2016,52,9,0,1,0,1,2010,2014,3,1,0,0,0,0,14 athletes with 1 medal,Yes,,,,0,0,0,0,0,3,6,,TRUE,2018
+133, Morocco,1960,2016,436,21,6,5,12,23,1968,2014,24,2,0,0,0,0,Hicham El Guerrouj (3 medals),Yes,,,,0,0,0,0,0,2,26,,TRUE,2018
+134, Mozambique,1980,2016,52,5,1,0,1,2,0,0,0,0,0,0,0,0,Maria Mutola (2 medals),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+135, Myanmar,1948,2016,86,11,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+136, Namibia,1992,2016,40,7,0,4,0,4,0,0,0,0,0,0,0,0,Frankie Fredericks (4 medals),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+137, Nauru,1996,2016,10,2,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+138, Nepal,1964,2016,77,8,0,0,0,0,1924,2014,3,2,0,0,0,0,Tejbir Bura (1 medal),Yes,,,,0,0,0,0,0,,3,,FALSE,2014
+139, Netherlands,1900,2016,"2,729",35,87,95,113,295,1928,2014,214,8,37,38,35,110,Anky van Grunsven (9 medals),Yes,8,6,6,20,45,44,41,130,34,248,,TRUE,2018
+140, Netherlands Antilles,1952,2008,52,11,0,1,0,1,1988,1992,3,2,0,0,0,0,Jan Boersma (1 medal),No,,,,0,0,0,0,0,,3,the Netherlands or Aruba,FALSE,1992
+141, New Zealand,1900,2016,"1,238",33,46,27,44,117,1952,2014,90,11,0,1,0,1,Mark Todd (6 medals),Yes,0,0,2,2,0,1,2,3,21,111,,TRUE,2018
+142, Newfoundland,1904,1904,1,1,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,No,,,,0,0,0,0,0,,0,Canada,FALSE,0
+143, Nicaragua,1968,2016,95,10,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+144, Niger,1964,2016,42,6,0,1,1,2,0,0,0,0,0,0,0,0,3 athletes with 2 medals,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+145, Nigeria,1952,2016,565,15,3,8,13,24,2018,0,0,0,0,0,0,0,Issaka Dabore and Razak Alfaga (1 medal),Yes,,,,0,0,0,0,0,3,3,,TRUE,2018
+146, North Borneo,1956,1956,2,1,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,No,,,,0,0,0,0,0,,0,Malaysia,FALSE,0
+147, North Korea,1972,2016,343,16,16,15,23,54,1964,2010,62,5,0,1,1,2,Kye Sun-Hui (3 medals),Yes,,,,0,0,1,1,2,10,72,,TRUE,2018
+148, North Yemen,1984,1988,10,3,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,No,,,,0,0,0,0,0,,0,Yemen,FALSE,0
+149, Norway,1900,2016,"1,404",28,59,51,48,158,1924,2014,820,15,118,111,100,329,Marit Bjørgen (15 medals),Yes,14,14,11,39,132,125,111,368,109,929,,TRUE,2018
+150,Olympic Athletes from Russia (OAR),0,0,0,0,0,0,0,0,2018,2018,168,15,2,6,9,17,Aleksandr Bolshunov (4 medals),Yes,,,,0,2,6,9,17,168,336,,TRUE,2018
+151, Oman,1984,2016,42,6,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+152, Pakistan,1948,2016,361,12,3,3,4,10,2010,2014,2,1,0,0,0,0,6 athletes with 3 medals,Yes,,,,0,0,0,0,0,2,4,,TRUE,2018
+153, Palau,2000,2016,21,6,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+154, Palestine,1996,2016,20,4,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+155, Panama,1928,2016,86,12,1,0,2,3,0,0,0,0,0,0,0,0,Lloyd LaBeach (2 medals),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+156, Papua New Guinea,1976,2016,61,8,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+157, Paraguay,1968,2016,103,12,0,1,0,1,2014,2014,1,1,0,0,0,0,17 athletes with 1 medal,Yes,,,,0,0,0,0,0,,1,,FALSE,2014
+158, Peru,1900,2016,350,24,1,3,0,4,2010,2014,3,2,0,0,0,0,15 athletes with 1 medal,Yes,,,,0,0,0,0,0,,3,,FALSE,2014
+159, Philippines,1924,2016,384,21,0,3,7,10,1972,2014,5,3,0,0,0,0,Teófilo Yldefonso (2 medals),Yes,,,,0,0,0,0,0,2,7,,TRUE,2018
+160, Poland,1912,2016,"2,459",30,69,87,134,290,1924,2014,511,15,6,7,7,20,Irena Szewi?ska-Kirszenstein (7 medals),Yes,1,0,1,2,7,7,8,22,62,573,,TRUE,2018
+161, Portugal,1912,2016,716,29,4,8,12,24,1952,2014,12,5,0,0,0,0,4 athletes with 2 medals,Yes,,,,0,0,0,0,0,2,14,,TRUE,2018
+162, Puerto Rico,1948,2016,546,25,1,2,6,9,1984,1998,17,5,0,0,0,0,9 athletes with 1 medal,Yes,,,,0,0,0,0,0,1,18,,TRUE,2018
+163, Qatar,1984,2016,141,15,0,1,4,5,0,0,0,0,0,0,0,0,Mutaz Essa Barshim (2 medals),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+164, Refugee Olympic Athletes,2016,2016,10,3,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+165, Rhodesia,1960,1960,14,6,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,No,,,,0,0,0,0,0,,0,Zimbabwe,FALSE,0
+166, Romania,1900,2016,"1,515",28,89,95,121,305,1928,2014,281,13,0,0,1,1,Nadia Com?neci (9 medals),Yes,,,,0,0,0,1,1,27,308,,TRUE,2018
+167, Russia,1900,2016,"1,814",34,153,143,165,461,1994,2014,616,15,49,40,35,124,Aleksey Nemov (12 medals),Yes,,,,0,49,40,35,124,,616,,FALSE,2014
+168, Rwanda,1984,2016,37,4,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+169, Saar,1952,1952,36,9,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,No,,,,0,0,0,0,0,,0,Germany and West Germany,FALSE,0
+170, Saint Kitts and Nevis,1996,2016,19,1,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+171, Saint Lucia,1996,2016,21,3,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+172, Saint Vincent and the Grenadines,1988,2016,28,2,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+173, Samoa,1984,2016,53,10,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+174, San Marino,1960,2016,77,11,0,0,0,0,1976,2014,15,3,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,1,16,,TRUE,2018
+175, Sao Tome and Principe,1996,2016,13,2,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+176, Saudi Arabia,1972,2016,149,12,0,1,2,3,0,0,0,0,0,0,0,0,6 athletes with 1 medal,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+177, Senegal,1964,2016,231,13,0,1,0,1,1984,2010,3,1,0,0,0,0,Amadou Dia Ba (1 medal),Yes,,,,0,0,0,0,0,,3,,FALSE,2010
+178, Serbia,1912,2016,214,17,3,6,6,15,2010,2014,15,5,0,0,0,0,4 athletes with 3 medals,Yes,,,,0,0,0,0,0,4,19,,TRUE,2018
+179, Serbia and Montenegro,1996,2004,193,19,2,4,3,9,1998,2006,12,5,0,0,0,0,16 athletes with 2 medals,No,,,,0,0,0,0,0,,12,Serbia and Montenegro now compete as independent countries,FALSE,2006
+180, Seychelles,1980,2016,64,8,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+181, Sierra Leone,1968,2016,62,5,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+182, Singapore,1948,2016,172,16,1,2,2,5,2018,0,0,0,0,0,0,0,Feng Tian Wei (3 medals),Yes,,,,0,0,0,0,0,1,1,,TRUE,2018
+183, Slovakia,1996,2016,259,22,9,11,8,28,1994,2014,201,12,2,2,1,5,Michal Martikán (5 medals),Yes,1,2,0,3,3,4,1,8,56,257,,TRUE,2018
+184, Slovenia,1992,2016,262,16,5,8,10,23,1992,2014,158,11,2,4,9,15,Iztok ?op and Tina Maze (4 medals),Yes,0,1,1,2,2,5,10,17,71,229,,TRUE,2018
+185, Solomon Islands,1984,2016,20,5,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+186, Somalia,1972,2016,22,1,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+187, South Africa,1904,2016,952,33,25,33,30,88,1960,2010,11,5,0,0,0,0,Chad le Clos (4 medals),Yes,,,,0,0,0,0,0,1,12,,TRUE,2018
+188, South Korea,1948,2016,"2,138",32,90,85,89,264,1948,2014,255,13,26,17,10,53,Kim Su-Nyeong and Jin Jong-O (6 medals),Yes,5,8,4,17,31,25,14,70,122,377,,TRUE,2018
+189,South Sudan,2016,2016,3,1,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+190, South Vietnam,1952,1972,39,7,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,No,,,,0,0,0,0,0,,0,Vietnam,FALSE,0
+191, South Yemen,1988,1988,5,2,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,No,,,,0,0,0,0,0,,0,Yemen,FALSE,0
+192, Soviet Union,1952,1988,"2,475",27,395,319,296,1010,1956,1988,473,10,78,57,59,194,Larysa Latynina (18 medals),No,,,,0,78,57,59,194,,473,"Unified Team in 1992 and then as Armenia, Azerbaijian, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Russia, Moldova, Tajikistan, Turkmenistan, Ukraine and Uzbekistan",FALSE,1988
+193, Spain,1900,2016,"2,504",37,44,63,41,148,1936,2014,132,10,1,0,1,2,David Cal (5 medals),Yes,0,0,2,2,1,0,3,4,13,145,,TRUE,2018
+194, Sri Lanka,1948,2016,93,11,0,2,0,2,0,0,0,0,0,0,0,0,Susanthika Jayasinghe and Duncan White (1 medal),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+195, Sudan,1960,2016,81,8,0,1,0,1,0,0,0,0,0,0,0,0,Ismail Ahmed Ismail (1 medal),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+196, Suriname,1968,2016,33,5,1,0,1,2,0,0,0,0,0,0,0,0,Anthony Nesty (2 medals),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+197, Swaziland,1972,2016,41,6,0,0,0,0,1992,1992,1,1,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,1,,FALSE,1992
+198, Sweden,1896,2016,"2,889",35,146,175,188,509,1924,2014,902,14,50,40,54,144,Alf Swahn and Sixten Jernberg (9 medals),Yes,7,6,1,14,57,46,55,158,116,1018,,TRUE,2018
+199, Switzerland,1896,2016,"1,881",37,58,82,69,209,1924,2014,"1,007",15,50,40,48,138,Eugen Mack and Georges Miez (8 medals),Yes,5,6,4,15,55,46,52,153,166,1173,,TRUE,2018
+200, Syria,1948,2016,132,13,1,1,1,3,0,0,0,0,0,0,0,0,3 athletes with 1 medal,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+201, Tajikistan,1996,2016,43,10,1,1,2,4,2002,2014,2,1,0,0,0,0,4 athletes with 1 medal,Yes,,,,0,0,0,0,0,,2,,FALSE,2014
+202, Tanzania,1964,2016,110,5,0,2,0,2,0,0,0,0,0,0,0,0,Filbert Bayi and Suleiman Nyambui (1 medal),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+203, Thailand,1952,2016,459,21,9,8,13,30,2002,2014,3,2,0,0,0,0,Manut Boonjumnong and Pimsiri Sirikaew (2 medals),Yes,,,,0,0,0,0,0,4,7,,TRUE,2018
+204, Timor Leste,2004,2016,7,2,0,0,0,0,2014,2014,1,1,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,1,2,,TRUE,2018
+205, Togo,1972,2016,40,9,0,0,1,1,2014,2014,2,2,0,0,0,0,Benjamin Boukpeti (1 medal),Yes,,,,0,0,0,0,0,1,3,,TRUE,2018
+206, Tonga,1984,2016,37,7,0,1,0,1,2014,2014,1,1,0,0,0,0,Paea Wolfgramm (1 medal),Yes,,,,0,0,0,0,0,1,2,,TRUE,2018
+207, Trinidad and Tobago,1948,2016,163,13,2,6,11,19,1994,2002,4,1,0,0,0,0,Ato Boldon (4 medals),Yes,,,,0,0,0,0,0,,4,,FALSE,2002
+208, Tunisia,1960,2016,416,22,3,3,7,13,0,0,0,0,0,0,0,0,Mohamad Gammoudi (4 medals),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+209, Turkey,1906,2016,743,25,40,27,28,95,1936,2014,61,3,0,0,0,0,3 athletes with 3 medals,Yes,,,,0,0,0,0,0,8,69,,TRUE,2018
+210, Turkmenistan,1996,2016,41,8,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+211, Tuvalu,2008,2016,6,2,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+212, Uganda,1956,2016,178,9,2,3,2,7,0,0,0,0,0,0,0,0,Leo Rwabwogo (2 medals),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+213, Ukraine,1996,2016,936,29,35,32,59,126,1994,2014,198,13,2,1,4,7,Yana Klochkova (5 medals),Yes,1,0,0,1,3,1,4,8,33,231,,TRUE,2018
+214, Unified Team,1992,1992,475,27,45,38,29,112,1992,1992,129,12,9,6,8,23,Vitaly Shcherbo (6 medals) ,No,,,,0,9,6,8,23,,129,"Armenia, Azerbaijian, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Russia, Moldova, Tajikistan, Turkmenistan, Ukraine and Uzbekistan",FALSE,1992
+215, United Arab Emirates,1984,2016,78,10,1,0,1,2,0,0,0,0,0,0,0,0,Ahmed Al-Maktoum and Sergiu Toma (1 medal),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+216, United Arab Republic,1960,1960,74,12,0,1,1,2,0,0,0,0,0,0,0,0,Abdel Moneim El-Gindy and Osman El-Sayed (1 medal),No,,,,0,0,0,0,0,,0,Egypt and Syria,FALSE,0
+217, United States,1896,2016,"7,967",45,1036,802,708,2546,1924,2014,"1,696",16,96,102,84,282,Michael Phelps (28 medals),Yes,9,8,6,23,105,110,90,305,241,1937,,TRUE,2018
+218, United States Virgin Islands,1968,2016,125,10,0,1,0,1,1988,2014,26,3,0,0,0,0,Peter Holmberg (1 medal),Yes,,,,0,0,0,0,0,,26,,FALSE,2014
+219, Uruguay,1924,2016,365,19,2,2,6,10,1998,1998,1,1,0,0,0,0,13 athletes with 2 medals,Yes,,,,0,0,0,0,0,,1,,FALSE,1998
+220, Uzbekistan,1996,2016,274,17,9,7,17,33,1994,2014,21,3,1,0,0,1,Artur Taymazov (4 medals),Yes,,,,0,1,0,0,1,2,23,,TRUE,2018
+221, Vanuatu,1988,2016,25,6,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+222, Venezuela,1932,2016,541,28,2,3,10,15,1998,2014,5,2,0,0,0,0,15 athletes with 1 medal,Yes,,,,0,0,0,0,0,,5,,FALSE,2014
+223, Vietnam,1980,2016,104,15,1,3,0,4,0,0,0,0,0,0,0,0,Hoàng Xuân Vinh (2 medals),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+224, West Germany,1968,1988,"1,373",27,56,67,81,204,1968,1988,336,10,11,15,13,39,Reiner Klimke (7 medals),No,,,,0,11,15,13,39,,336,Germany,FALSE,1988
+225, West Indies Federation,1960,1960,13,5,0,0,2,2,0,0,0,0,0,0,0,0,George Kerr (2 medals),No,,,,0,0,0,0,0,,0,"Jamaica, Barbados, Trinidad and Tobago",FALSE,0
+226, Yemen,1992,2016,28,6,0,0,0,0,0,0,0,0,0,0,0,0,No medalists,Yes,,,,0,0,0,0,0,,0,,FALSE,0
+227, Yugoslavia,1920,1988,"1,035",25,26,29,28,83,1924,1992,235,10,0,3,1,4,Leon Štukelj (6 medals),No,,,,0,0,3,1,4,,235,"Serbia, Croatia, Slovenia, Bosnia and Herzegovina, Indpendent Olympic Athletes in 1992, Macedonia, Serbia and Montenegro and Kosovo",FALSE,1992
+228, Zambia,1964,2016,145,8,0,1,1,2,0,0,0,0,0,0,0,0,Keith Mwila and Samuel Matete (1 medal),Yes,,,,0,0,0,0,0,,0,,FALSE,0
+229, Zimbabwe,1928,2016,191,16,3,4,1,8,2014,2014,1,1,0,0,0,0,Kirsty Coventry (7 medals),Yes,,,,0,0,0,0,0,,1,,FALSE,2014

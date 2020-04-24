@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title> United Arab Republic</title>
+
+	<!-- note the special href for files in the Flask "static" folder -->
+	<link rel="stylesheet" href="../static/main.css">
+	<script src="https://code.highcharts.com/highcharts.js"></script>
+	<script src="https://code.highcharts.com/modules/exporting.js"></script>
+	<script src="https://code.highcharts.com/modules/export-data.js"></script>
+	<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
+
+
+
+</head>
+<body>
+
+<div id="container">
+
+  <!-- Jinja directives: page contents will go between them -->
+  
+
+
+<h1> United Arab Republic</h1>
+
+
+<figure class="highcharts-figure">
+    <div id="chart"></div>
+    <p class="highcharts-description">
+    </p>
+</figure>
+
+<script>
+goldcount = 0
+silvercount = 1
+bronzecount = 1
+wintergoldcount = 0
+wintersilvercount = 0
+winterbronzecount = 0
+
+</script>
+
+<p>First appearance at the Summer Olympics:
+
+	
+		1960
+	
+</p>
+
+<p>	Last appearance: 1960 </p>
+
+<p> First appearance at the Winter Olympics:
+  
+    None
+	
+  </p>
+  
+<p> Total Summer Olympics medals: 2 </p>
+<p> Total Winter Olympics medals: 0
+<p> All-time total athletes at the Summer Olympics: 74 </p>
+<p> All-time total athletes at the Winter Olympics: 0 </p>
+<p> Athlete with the most medals: Abdel Moneim El-Gindy and Osman El-Sayed (1 medal) </p>
+
+  <p>Later competed as: Egypt and Syria</p>
+
+<br>
+
+
+<!-- NOTE the way to link to a route: Use the function name -->
+<p><a href="../index.html">Return to the list</a> to view a different country.</p>
+<br>
+<br>
+<footer> This is a project created by Brendan Farrell. You can find the code used for this project <a href = 'https://github.com/bfarrell1/olympics_project'> here </a>
+
+
+
+</div>
+<script src="../static/main.js" ></script>
+</body>
+</html>

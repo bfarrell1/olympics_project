@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>Country Index</title>
+
+	<!-- note the special href for files in the Flask "static" folder -->
+	<link rel="stylesheet" href="static/main.css">
+	<script src="https://code.highcharts.com/highcharts.js"></script>
+	<script src="https://code.highcharts.com/modules/exporting.js"></script>
+	<script src="https://code.highcharts.com/modules/export-data.js"></script>
+	<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
+
+
+
+</head>
+<body>
+
+<div id="container">
+
+  <!-- Jinja directives: page contents will go between them -->
+  
+
+<h1>Countries that have competed at the Olympic Games</h1>
+
+<p> With the 2020 Summer Olympics in Tokyo being postponed until next year, this is the perfect time to learn more about the countries that have competed at the Olympic Games since the modern games began in 1896. A total of 229 countries both past and present are included here.</p>
+<p>This was built scraping <a href='https://www.sports-reference.com/olympics/'> Sports Reference </a> for Olympics data through 2016 and then adding 2018 data by hand. </p>
+<br>
+<p id = 'about'>Click on any country to read more about it.</p>
+
+
+    <ul>
+    
+        <li><a href="country/1"> Afghanistan</a></li>
+    
+        <li><a href="country/2"> Albania</a></li>
+    
+        <li><a href="country/3"> Algeria</a></li>
+    
+        <li><a href="country/4"> American Samoa</a></li>
+    
+        <li><a href="country/5"> Andorra</a></li>
+    
+        <li><a href="country/6"> Angola</a></li>
+    
+        <li><a href="country/7"> Antigua and Barbuda</a></li>
+    
+        <li><a href="country/8"> Argentina</a></li>
+    
+        <li><a href="country/9"> Armenia</a></li>
+    
+        <li><a href="country/10"> Aruba</a></li>
+    
+        <li><a href="country/11"> Australasia</a></li>
+    
+        <li><a href="country/12"> Australia</a></li>
+    
+        <li><a href="country/13"> Austria</a></li>
+    
+        <li><a href="country/14"> Azerbaijan</a></li>
+    
+        <li><a href="country/15"> Bahamas</a></li>
+    
+        <li><a href="country/16"> Bahrain</a></li>
+    
+        <li><a href="country/17"> Bangladesh</a></li>
+    
+        <li><a href="country/18"> Barbados</a></li>
+    
+        <li><a href="country/19"> Belarus</a></li>
+    
+        <li><a href="country/20"> Belgium</a></li>
+    
+        <li><a href="country/21"> Belize</a></li>
+    
+        <li><a href="country/22"> Benin</a></li>
+    
+        <li><a href="country/23"> Bermuda</a></li>
+    
+        <li><a href="country/24"> Bhutan</a></li>
+    
+        <li><a href="country/25"> Bohemia</a></li>
+    
+        <li><a href="country/26"> Bolivia</a></li>
+    
+        <li><a href="country/27"> Bosnia and Herzegovina</a></li>
+    
+        <li><a href="country/28"> Botswana</a></li>
+    
+        <li><a href="country/29"> Brazil</a></li>
+    
+        <li><a href="country/30"> British Virgin Islands</a></li>
+    
+        <li><a href="country/31"> Brunei</a></li>
+    
+        <li><a href="country/32"> Bulgaria</a></li>
+    
+        <li><a href="country/33"> Burkina Faso</a></li>
+    
+        <li><a href="country/34"> Burundi</a></li>
+    
+        <li><a href="country/35"> Cambodia</a></li>
+    
+        <li><a href="country/36"> Cameroon</a></li>
+    
+        <li><a href="country/37"> Canada</a></li>
+    
+        <li><a href="country/38"> Cape Verde</a></li>
+    
+        <li><a href="country/39"> Cayman Islands</a></li>
+    
+        <li><a href="country/40"> Central African Republic</a></li>
+    
+        <li><a href="country/41"> Chad</a></li>
+    
+        <li><a href="country/42"> Chile</a></li>
+    
+        <li><a href="country/43"> China</a></li>
+    
+        <li><a href="country/44"> Chinese Taipei</a></li>
+    
+        <li><a href="country/45"> Colombia</a></li>
+    
+        <li><a href="country/46"> Comoros</a></li>
+    
+        <li><a href="country/47"> Congo (Brazzaville)</a></li>
+    
+        <li><a href="country/48"> Congo (Kinshasa)</a></li>
+    
+        <li><a href="country/49"> Cook Islands</a></li>
+    
+        <li><a href="country/50"> Costa Rica</a></li>
+    
+        <li><a href="country/51"> Cote d&#39;Ivoire</a></li>
+    
+        <li><a href="country/52"> Croatia</a></li>
+    
+        <li><a href="country/53"> Cuba</a></li>
+    
+        <li><a href="country/54"> Cyprus</a></li>
+    
+        <li><a href="country/55"> Czech Republic</a></li>
+    
+        <li><a href="country/56"> Czechoslovakia</a></li>
+    
+        <li><a href="country/57"> Denmark</a></li>
+    
+        <li><a href="country/58"> Djibouti</a></li>
+    
+        <li><a href="country/59"> Dominica</a></li>
+    
+        <li><a href="country/60"> Dominican Republic</a></li>
+    
+        <li><a href="country/61"> East Germany</a></li>
+    
+        <li><a href="country/62"> Ecuador</a></li>
+    
+        <li><a href="country/63"> Egypt</a></li>
+    
+        <li><a href="country/64"> El Salvador</a></li>
+    
+        <li><a href="country/65"> Equatorial Guinea</a></li>
+    
+        <li><a href="country/66"> Eritrea</a></li>
+    
+        <li><a href="country/67"> Estonia</a></li>
+    
+        <li><a href="country/68"> Ethiopia</a></li>
+    
+        <li><a href="country/69"> Federated States of Micronesia</a></li>
+    
+        <li><a href="country/70"> Fiji</a></li>
+    
+        <li><a href="country/71"> Finland</a></li>
+    
+        <li><a href="country/72"> France</a></li>
+    
+        <li><a href="country/73"> Gabon</a></li>
+    
+        <li><a href="country/74"> Gambia</a></li>
+    
+        <li><a href="country/75"> Georgia</a></li>
+    
+        <li><a href="country/76"> Germany</a></li>
+    
+        <li><a href="country/77"> Ghana</a></li>
+    
+        <li><a href="country/78"> Great Britain</a></li>
+    
+        <li><a href="country/79"> Greece</a></li>
+    
+        <li><a href="country/80"> Grenada</a></li>
+    
+        <li><a href="country/81"> Guam</a></li>
+    
+        <li><a href="country/82"> Guatemala</a></li>
+    
+        <li><a href="country/83"> Guinea</a></li>
+    
+        <li><a href="country/84"> Guinea Bissau</a></li>
+    
+        <li><a href="country/85"> Guyana</a></li>
+    
+        <li><a href="country/86"> Haiti</a></li>
+    
+        <li><a href="country/87"> Honduras</a></li>
+    
+        <li><a href="country/88"> Hong Kong</a></li>
+    
+        <li><a href="country/89"> Hungary</a></li>
+    
+        <li><a href="country/90"> Iceland</a></li>
+    
+        <li><a href="country/91"> India</a></li>
+    
+        <li><a href="country/92"> Individual Olympic Athletes</a></li>
+    
+        <li><a href="country/93"> Indonesia</a></li>
+    
+        <li><a href="country/94"> Iran</a></li>
+    
+        <li><a href="country/95"> Iraq</a></li>
+    
+        <li><a href="country/96"> Ireland</a></li>
+    
+        <li><a href="country/97"> Israel</a></li>
+    
+        <li><a href="country/98"> Italy</a></li>
+    
+        <li><a href="country/99"> Jamaica</a></li>
+    
+        <li><a href="country/100"> Japan</a></li>
+    
+        <li><a href="country/101"> Jordan</a></li>
+    
+        <li><a href="country/102"> Kazakhstan</a></li>
+    
+        <li><a href="country/103"> Kenya</a></li>
+    
+        <li><a href="country/104"> Kiribati</a></li>
+    
+        <li><a href="country/105"> Kosovo</a></li>
+    
+        <li><a href="country/106"> Kuwait</a></li>
+    
+        <li><a href="country/107"> Kyrgyzstan</a></li>
+    
+        <li><a href="country/108"> Laos</a></li>
+    
+        <li><a href="country/109"> Latvia</a></li>
+    
+        <li><a href="country/110"> Lebanon</a></li>
+    
+        <li><a href="country/111"> Lesotho</a></li>
+    
+        <li><a href="country/112"> Liberia</a></li>
+    
+        <li><a href="country/113"> Libya</a></li>
+    
+        <li><a href="country/114"> Liechtenstein</a></li>
+    
+        <li><a href="country/115"> Lithuania</a></li>
+    
+        <li><a href="country/116"> Luxembourg</a></li>
+    
+        <li><a href="country/117"> Macedonia</a></li>
+    
+        <li><a href="country/118"> Madagascar</a></li>
+    
+        <li><a href="country/119"> Malawi</a></li>
+    
+        <li><a href="country/120"> Malaya</a></li>
+    
+        <li><a href="country/121"> Malaysia</a></li>
+    
+        <li><a href="country/122"> Maldives</a></li>
+    
+        <li><a href="country/123"> Mali</a></li>
+    
+        <li><a href="country/124"> Malta</a></li>
+    
+        <li><a href="country/125"> Marshall Islands</a></li>
+    
+        <li><a href="country/126"> Mauritania</a></li>
+    
+        <li><a href="country/127"> Mauritius</a></li>
+    
+        <li><a href="country/128"> Mexico</a></li>
+    
+        <li><a href="country/129"> Moldova</a></li>
+    
+        <li><a href="country/130"> Monaco</a></li>
+    
+        <li><a href="country/131"> Mongolia</a></li>
+    
+        <li><a href="country/132"> Montenegro</a></li>
+    
+        <li><a href="country/133"> Morocco</a></li>
+    
+        <li><a href="country/134"> Mozambique</a></li>
+    
+        <li><a href="country/135"> Myanmar</a></li>
+    
+        <li><a href="country/136"> Namibia</a></li>
+    
+        <li><a href="country/137"> Nauru</a></li>
+    
+        <li><a href="country/138"> Nepal</a></li>
+    
+        <li><a href="country/139"> Netherlands</a></li>
+    
+        <li><a href="country/140"> Netherlands Antilles</a></li>
+    
+        <li><a href="country/141"> New Zealand</a></li>
+    
+        <li><a href="country/142"> Newfoundland</a></li>
+    
+        <li><a href="country/143"> Nicaragua</a></li>
+    
+        <li><a href="country/144"> Niger</a></li>
+    
+        <li><a href="country/145"> Nigeria</a></li>
+    
+        <li><a href="country/146"> North Borneo</a></li>
+    
+        <li><a href="country/147"> North Korea</a></li>
+    
+        <li><a href="country/148"> North Yemen</a></li>
+    
+        <li><a href="country/149"> Norway</a></li>
+    
+        <li><a href="country/150">Olympic Athletes from Russia (OAR)</a></li>
+    
+        <li><a href="country/151"> Oman</a></li>
+    
+        <li><a href="country/152"> Pakistan</a></li>
+    
+        <li><a href="country/153"> Palau</a></li>
+    
+        <li><a href="country/154"> Palestine</a></li>
+    
+        <li><a href="country/155"> Panama</a></li>
+    
+        <li><a href="country/156"> Papua New Guinea</a></li>
+    
+        <li><a href="country/157"> Paraguay</a></li>
+    
+        <li><a href="country/158"> Peru</a></li>
+    
+        <li><a href="country/159"> Philippines</a></li>
+    
+        <li><a href="country/160"> Poland</a></li>
+    
+        <li><a href="country/161"> Portugal</a></li>
+    
+        <li><a href="country/162"> Puerto Rico</a></li>
+    
+        <li><a href="country/163"> Qatar</a></li>
+    
+        <li><a href="country/164"> Refugee Olympic Athletes</a></li>
+    
+        <li><a href="country/165"> Rhodesia</a></li>
+    
+        <li><a href="country/166"> Romania</a></li>
+    
+        <li><a href="country/167"> Russia</a></li>
+    
+        <li><a href="country/168"> Rwanda</a></li>
+    
+        <li><a href="country/169"> Saar</a></li>
+    
+        <li><a href="country/170"> Saint Kitts and Nevis</a></li>
+    
+        <li><a href="country/171"> Saint Lucia</a></li>
+    
+        <li><a href="country/172"> Saint Vincent and the Grenadines</a></li>
+    
+        <li><a href="country/173"> Samoa</a></li>
+    
+        <li><a href="country/174"> San Marino</a></li>
+    
+        <li><a href="country/175"> Sao Tome and Principe</a></li>
+    
+        <li><a href="country/176"> Saudi Arabia</a></li>
+    
+        <li><a href="country/177"> Senegal</a></li>
+    
+        <li><a href="country/178"> Serbia</a></li>
+    
+        <li><a href="country/179"> Serbia and Montenegro</a></li>
+    
+        <li><a href="country/180"> Seychelles</a></li>
+    
+        <li><a href="country/181"> Sierra Leone</a></li>
+    
+        <li><a href="country/182"> Singapore</a></li>
+    
+        <li><a href="country/183"> Slovakia</a></li>
+    
+        <li><a href="country/184"> Slovenia</a></li>
+    
+        <li><a href="country/185"> Solomon Islands</a></li>
+    
+        <li><a href="country/186"> Somalia</a></li>
+    
+        <li><a href="country/187"> South Africa</a></li>
+    
+        <li><a href="country/188"> South Korea</a></li>
+    
+        <li><a href="country/189">South Sudan</a></li>
+    
+        <li><a href="country/190"> South Vietnam</a></li>
+    
+        <li><a href="country/191"> South Yemen</a></li>
+    
+        <li><a href="country/192"> Soviet Union</a></li>
+    
+        <li><a href="country/193"> Spain</a></li>
+    
+        <li><a href="country/194"> Sri Lanka</a></li>
+    
+        <li><a href="country/195"> Sudan</a></li>
+    
+        <li><a href="country/196"> Suriname</a></li>
+    
+        <li><a href="country/197"> Swaziland</a></li>
+    
+        <li><a href="country/198"> Sweden</a></li>
+    
+        <li><a href="country/199"> Switzerland</a></li>
+    
+        <li><a href="country/200"> Syria</a></li>
+    
+        <li><a href="country/201"> Tajikistan</a></li>
+    
+        <li><a href="country/202"> Tanzania</a></li>
+    
+        <li><a href="country/203"> Thailand</a></li>
+    
+        <li><a href="country/204"> Timor Leste</a></li>
+    
+        <li><a href="country/205"> Togo</a></li>
+    
+        <li><a href="country/206"> Tonga</a></li>
+    
+        <li><a href="country/207"> Trinidad and Tobago</a></li>
+    
+        <li><a href="country/208"> Tunisia</a></li>
+    
+        <li><a href="country/209"> Turkey</a></li>
+    
+        <li><a href="country/210"> Turkmenistan</a></li>
+    
+        <li><a href="country/211"> Tuvalu</a></li>
+    
+        <li><a href="country/212"> Uganda</a></li>
+    
+        <li><a href="country/213"> Ukraine</a></li>
+    
+        <li><a href="country/214"> Unified Team</a></li>
+    
+        <li><a href="country/215"> United Arab Emirates</a></li>
+    
+        <li><a href="country/216"> United Arab Republic</a></li>
+    
+        <li><a href="country/217"> United States</a></li>
+    
+        <li><a href="country/218"> United States Virgin Islands</a></li>
+    
+        <li><a href="country/219"> Uruguay</a></li>
+    
+        <li><a href="country/220"> Uzbekistan</a></li>
+    
+        <li><a href="country/221"> Vanuatu</a></li>
+    
+        <li><a href="country/222"> Venezuela</a></li>
+    
+        <li><a href="country/223"> Vietnam</a></li>
+    
+        <li><a href="country/224"> West Germany</a></li>
+    
+        <li><a href="country/225"> West Indies Federation</a></li>
+    
+        <li><a href="country/226"> Yemen</a></li>
+    
+        <li><a href="country/227"> Yugoslavia</a></li>
+    
+        <li><a href="country/228"> Zambia</a></li>
+    
+        <li><a href="country/229"> Zimbabwe</a></li>
+    
+    </ul>
+<footer> This is a project created by Brendan Farrell. You can find the code used for this project <a href = 'https://github.com/bfarrell1/olympics_project'> here </a>
+
+
+</div>
+<script src="static/main.js" ></script>
+</body>
+</html>

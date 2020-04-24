@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title> Norway</title>
+
+	<!-- note the special href for files in the Flask "static" folder -->
+	<link rel="stylesheet" href="../static/main.css">
+	<script src="https://code.highcharts.com/highcharts.js"></script>
+	<script src="https://code.highcharts.com/modules/exporting.js"></script>
+	<script src="https://code.highcharts.com/modules/export-data.js"></script>
+	<script src="https://code.highcharts.com/modules/accessibility.js"></script>
+
+
+
+
+</head>
+<body>
+
+<div id="container">
+
+  <!-- Jinja directives: page contents will go between them -->
+  
+
+
+<h1> Norway</h1>
+
+
+<figure class="highcharts-figure">
+    <div id="chart"></div>
+    <p class="highcharts-description">
+    </p>
+</figure>
+
+<script>
+goldcount = 59
+silvercount = 51
+bronzecount = 48
+wintergoldcount = 132
+wintersilvercount = 125
+winterbronzecount = 111
+
+</script>
+
+<p>First appearance at the Summer Olympics:
+
+	
+		1900
+	
+</p>
+
+<p>	Last appearance: 2016 </p>
+
+<p> First appearance at the Winter Olympics:
+  
+		1924
+  
+  </p>
+  
+  	<p>	Last appearance: 2018 </p>
+  
+<p> Total Summer Olympics medals: 158 </p>
+<p> Total Winter Olympics medals: 368
+<p> All-time total athletes at the Summer Olympics: 1,404 </p>
+<p> All-time total athletes at the Winter Olympics: 929 </p>
+<p> Athlete with the most medals: Marit Bjørgen (15 medals) </p>
+
+<br>
+
+
+<!-- NOTE the way to link to a route: Use the function name -->
+<p><a href="../index.html">Return to the list</a> to view a different country.</p>
+<br>
+<br>
+<footer> This is a project created by Brendan Farrell. You can find the code used for this project <a href = 'https://github.com/bfarrell1/olympics_project'> here </a>
+
+
+
+</div>
+<script src="../static/main.js" ></script>
+</body>
+</html>

@@ -1,0 +1,63 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+
+<h1>{{ country['country'] }}</h1>
+
+
+<figure class="highcharts-figure">
+    <div id="chart"></div>
+    <p class="highcharts-description">
+    </p>
+</figure>
+
+<script>
+goldcount = {{ country['gold'] }}
+silvercount = {{ country['silver'] }}
+bronzecount = {{ country['bronze'] }}
+wintergoldcount = {{ country['g_w'] }}
+wintersilvercount = {{ country['s_w'] }}
+winterbronzecount = {{ country['b_w'] }}
+
+</script>
+
+<p>First appearance at the Summer Olympics:
+
+	{% if country['first'] == '0'%}
+		None
+	{% elif country['first'] != '0'%}
+		{{ country['first'] }}
+	{% endif %}
+</p>
+{% if country['first'] != '0'%}
+<p>	Last appearance: {{ country['last'] }} </p>
+{% endif %}
+<p> First appearance at the Winter Olympics:
+  {% if country['first_winter'] == '0' %}
+    None
+	{% elif country['first_winter'] != '0' %}
+		{{ country['first_winter'] }}
+  {% endif %}
+  </p>
+  {% if country['first_winter'] != '0' %}
+  	<p>	Last appearance: {{ country['new_last_winter'] }} </p>
+  {% endif %}
+<p> Total Summer Olympics medals: {{ country['total'] }} </p>
+<p> Total Winter Olympics medals: {{ country['new_total_winter'] }}
+<p> All-time total athletes at the Summer Olympics: {{ country['participants'] }} </p>
+<p> All-time total athletes at the Winter Olympics: {{ country['total_participants_w'] }} </p>
+<p> Athlete with the most medals: {{ country['athlete'] }} </p>
+{% if country['still_in_use'] == 'No' %}
+  <p>Later competed as: {{ country['now_compete_as'] }}</p>
+{% endif %}
+<br>
+
+
+<!-- NOTE the way to link to a route: Use the function name -->
+<p><a href="{{ url_for('index') }}">Return to the list</a> to view a different country.</p>
+<br>
+<br>
+<footer> This is a project created by Brendan Farrell. You can find the code used for this project <a href = 'https://github.com/bfarrell1/olympics_project'> here </a>
+
+{% endblock %}
